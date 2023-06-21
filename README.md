@@ -18,7 +18,7 @@
 
 
 - 👀 I’m interested in game development,apps creating. 
-- 🌱 I’m currently learning C++ some times, but im crazy about making games in UE5. Of course,I still have little experience in this field,but im really interested.
+- 🌱 I’m currently learning C++ , but im crazy about making games in UE5. Of course,I still have little experience in this field,but im really interested.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me in tg:https://t.me/sheeeeesha or email: zheka_bounty13@mail.ru
 - 
